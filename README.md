@@ -4,7 +4,7 @@ Welcome to the repository containing my **Google Summer of Code 2025** proposal 
 
 ## 🚀 Project Overview
 
-**Project Title:** _[Alpha One and Only Classroom]_
+**Project Title:** _Alpha One and Only Classroom_
 
 **Organization:** [Alpha One Labs](https://alphaonelabs.com)
 
