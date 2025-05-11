@@ -9,7 +9,7 @@ Welcome to the repository containing my **Google Summer of Code 2025** proposal 
 **Organization:** [Alpha One Labs](https://alphaonelabs.com)
 
 **Student:** Ishaan Arora  
-**Email:** [ishaana612@gmail.com]  
-**GitHub:** [ishaan-arora-1]  
+**Email:** ishaana612@gmail.com  
+**GitHub:** ishaan-arora-1  
 **University:** IIIT Delhi  
 **Program:** Google Summer of Code 2025  
